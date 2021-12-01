@@ -1,0 +1,5 @@
+Credentials cache: API:7E645CA5-DCD0-406E-8D7A-E4FCCA4A1882
+        Principal: atabiti@1337.MA
+
+  Issued                Expires               Principal
+Jun 23 08:22:15 2021  Jun 23 18:22:15 2021  krbtgt/1337.MA@1337.MA
